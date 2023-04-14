@@ -1,4 +1,4 @@
-﻿using ApiEmpleadosMultiplesRutas.Models;
+﻿using NugetApiXiang.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApiEmpleadosMultiplesRutas.Data
