@@ -21,7 +21,8 @@ builder.Services.AddSwaggerGen(options =>
     options.SwaggerDoc("v1", new OpenApiInfo
     {
         Title = "Api Empleados Múltiples rutas",
-        Description = "Ejemplo con múltiples métodos GET y Route"
+        Description = "Ejemplo con múltiples métodos GET y Route",
+        Version = "v1"
     });
 
 });
